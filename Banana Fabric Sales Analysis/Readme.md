@@ -14,4 +14,4 @@ To build a clear and insightful dashboard for decision-makers to:
 - Support inventory and marketing decisions
 
 SEE THE DASHBOARD HERE
-![Banana Fabric Sales Dashboard](Banana%20Fabric%20Sales%20Analysis/Dashboard%20screenshot.png)
+![Banana Fabric Sales Dashboard](./Dashboard%20screenshot.png)
