@@ -24,6 +24,8 @@ This Power BI dashboard provides insights into business trends across Tamil Nadu
 ---
 
 ## 📷 Dashboard Preview
+![Dashboard Page 1](./TN-Dashboard-P1.png)
+![Dashboard Page 2](./TN-Dashboard-P2.png)
 
 
 ---
